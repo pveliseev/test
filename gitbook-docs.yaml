@@ -10,3 +10,10 @@ site:
       content:
         directory: ./docs
         language: en
+    - type: space
+      key: space-2
+      title: ru Russian
+      path: ru-russian
+      draft: true
+      content:
+        directory: ./ru-russian
