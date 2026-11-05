@@ -18,3 +18,9 @@ site:
       content:
         directory: ./ru-russian
         language: ru
+    - type: section-group
+      key: section-group-1
+      title: Group
+      icon: readme
+      draft: true
+      children: []
