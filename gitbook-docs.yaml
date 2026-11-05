@@ -24,3 +24,9 @@ site:
       icon: readme
       draft: true
       children: []
+    - type: section-group
+      key: section-group-2
+      title: Group
+      icon: readme
+      draft: true
+      children: []
