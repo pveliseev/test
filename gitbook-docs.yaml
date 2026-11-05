@@ -16,5 +16,5 @@ site:
       path: ru-russian
       draft: true
       content:
-        directory: ./docs
-        language: en
+        directory: ./ru-russian
+        language: ru
